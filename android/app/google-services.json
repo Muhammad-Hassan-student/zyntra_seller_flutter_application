@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605562722501",
+    "project_id": "zyntra-app",
+    "storage_bucket": "zyntra-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605562722501:android:eb2fb2e45d73235f51b8ac",
+        "android_client_info": {
+          "package_name": "com.example.zyntra_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyDZowIrgI0atRJorotP-XGbZX5vLqmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605562722501:android:26df80cddd71621251b8ac",
+        "android_client_info": {
+          "package_name": "com.example.zyntra_seller_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyDZowIrgI0atRJorotP-XGbZX5vLqmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+const loginImage = "assets/image/03 Login.png";

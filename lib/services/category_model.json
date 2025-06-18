@@ -1,0 +1,239 @@
+{
+  "category": [
+
+    {
+      "name": "Women Clothing & Fashion",
+      "subCategory": [
+        "Wedding & Event",
+        "Tops & Sets",
+        "Watches"
+      ]
+    },
+    {
+      "name": "Men Clothing & Fashion",
+      "subCategory": [
+        "Outwear & Jackets",
+        "Formal Dress",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Computer & Accessories",
+      "subCategory": [
+        "Laptop",
+        "Gaming PC",
+        "Official Equipment"
+      ]
+    },
+    {
+      "name": "Women Bags",
+      "subCategory": [
+        "Crossbody Bags",
+        "Shoulder Bags",
+        "Tote Bags",
+        "Mini Bags",
+        "Handbags",
+        "Clutches",
+        "Backpacks",
+        "Sling Bags",
+        "Satchels",
+        "Evening Bags"
+      ]
+    },
+    {
+      "name": "Glasses",
+      "subCategory": [
+        "Women Sunglasses",
+        "Men Sunglasses",
+        "Girls Fashion Glasses",
+        "Boys Sports Glasses",
+        "Kids Cartoon Glasses",
+        "Prescription Glasses",
+        "Blue Light Blocking Glasses",
+        "Reading Glasses",
+        "Polarized Glasses",
+        "Luxury Designer Glasses"
+      ]
+    },
+    {
+      "name": "Home & Office Decoration",
+      "subCategory": [
+        "Wall Art & Decor",
+        "Furniture",
+        "Lighting",
+        "Accessories & Organizers",
+        "Home Office Essentials",
+        "Decorative Elements",
+        "Wall Posters",
+        "Canvas Prints",
+        "Framed Art",
+        "Wall Clocks",
+        "Wall Stickers & Decals",
+        "Photo Frames",
+        "3D Wall Panels",
+        "Wall Mirrors",
+        "Wall Shelves",
+        "Wall Hanging Tapestries",
+        "Macramé Wall Art",
+        "Wall Planters",
+        "Chairs",
+        "Tables & Desks",
+        "Shelves & Storage Units",
+        "Bookshelves",
+        "Room Dividers",
+        "Table & Desk Lamps",
+        "Pendant Lights",
+        "Wall Lights",
+        "Floor Lamps",
+        "LED Strip Lights",
+        "Rugs & Mats",
+        "Throw Pillows & Cushions",
+        "Desk Organizers",
+        "Storage Baskets & Trays",
+        "Planters & Indoor Plants",
+        "Office Chairs",
+        "Study Desks",
+        "Filing Cabinets",
+        "Notebooks & Stationery",
+        "Desk Calendars",
+        "Vases",
+        "Sculptures",
+        "Decorative Trays",
+        "Clocks",
+        "Picture Frames"
+      ]
+    },
+    {
+      "name": "Women Sandals",
+      "subCategory": [
+        "Flat Sandals",
+        "Slip-On Sandals",
+        "Sporty Sandals",
+        "Gladiator Sandals",
+        "Casual Sandals"
+      ]
+    },
+    {
+      "name": "Shoes",
+      "subCategory": [
+        "Women Shoes",
+        "Men Shoes",
+        "Girls Shoes",
+        "Boys Shoes",
+        "Kids Shoes",
+        "Sports Shoes",
+        "Casual Shoes",
+        "Formal Shoes",
+        "Boots",
+        "Sneakers",
+        "Flip Flops",
+        "Sandals",
+        "Loafers",
+        "Slippers"
+      ]
+    },
+
+
+    {
+      "name": "Automobile",
+      "subCategory": [
+        "Cars",
+        "Bikes"
+      ]
+    },
+    {
+      "name": "Kids & Toys",
+      "subCategory": [
+        "Shoes & Bags",
+        "Baby Clothing",
+        "Girls Toys"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subCategory": [
+        "Football",
+        "Basketball",
+        "Tennis",
+        "Cricket",
+        "Badminton",
+        "Cycling",
+        "Running & Jogging",
+        "Gym Equipment",
+        "Swimming",
+        "Boxing & Martial Arts",
+        "Yoga & Pilates",
+        "Outdoor Sports",
+        "Sports Shoes",
+        "Sports Apparel",
+        "Sports Accessories"
+      ]
+    },
+    {
+      "name": "Cellphones & Accessories",
+      "subCategory": [
+        "Smartphones",
+        "Touchscreen Mobile Phones",
+        "Keypad Mobile Phones",
+        "Tablets",
+        "iPads",
+        "Mobile Phone Accessories",
+        "Mobile Cases & Covers",
+        "Chargers & Power Banks",
+        "Screen Protectors",
+        "Bluetooth Earphones & Headphones",
+        "Smart Watches & Fitness Bands",
+        "Mobile Stands & Holders",
+        "Mobile Speakers",
+        "Wireless Earbuds"
+      ]
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "subCategory": [
+        "Skincare",
+        "Face Creams & Moisturizers",
+        "Face Wash & Cleansers",
+        "Sunscreen & Sun Protection",
+        "Anti-Aging Products",
+        "Face Masks & Scrubs",
+        "Makeup",
+        "Foundation & Concealers",
+        "Lipsticks & Lip Balms",
+        "Eye Makeup",
+        "Blushes & Highlighters",
+        "Nail Care & Nail Polishes",
+        "Hair Care",
+        "Shampoos & Conditioners",
+        "Hair Oils & Serums",
+        "Hair Styling Tools",
+        "Hair Colors & Dyes",
+        "Fragrances & Perfumes",
+        "Body Care",
+        "Body Lotions & Creams",
+        "Hand & Foot Care",
+        "Shaving & Hair Removal",
+        "Beauty Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Facial Brushes & Massagers"
+      ]
+    },
+
+    {
+      "name": "Jewellery",
+      "subCategory": [
+        "Necklace",
+        "Gold",
+        "Earing"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subCategory": [
+        "Sofa",
+        "Bed",
+        "Home Textile"
+      ]
+    }
+  ]
+}
