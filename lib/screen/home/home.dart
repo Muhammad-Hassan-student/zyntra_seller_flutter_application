@@ -38,8 +38,8 @@ class Home extends StatelessWidget {
             controller.currentIndex.value = currentIndex;
           },
           backgroundColor: white,
-          selectedItemColor: appColor,
-          unselectedItemColor: darkGrey,
+          selectedItemColor: Colors.black,
+          unselectedItemColor: appColor,
           currentIndex: controller.currentIndex.value,
           type: BottomNavigationBarType.fixed,
           items: bottmNavbarItems,
