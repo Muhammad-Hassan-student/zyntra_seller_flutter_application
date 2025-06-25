@@ -34,6 +34,57 @@ class ProductsScreen extends StatelessWidget {
                 ),
                 title: "Product Title".text.color(fontGrey).make(),
                 subtitle: "\$40.0".text.color(darkGrey).make(),
+                trailing: VxPopupMenu(
+                  child: Icon(Icons.more_vert_outlined),
+                  arrowSize: 0.0,
+                  menuBuilder:
+                      () =>
+                          Column(
+                                children: List.generate(
+                                  popMenuTitles.length,
+                                  (index) => Column(
+                                    children: [
+                                      Padding(
+                                        padding: const EdgeInsets.symmetric(
+                                          vertical: 4,
+                                        ),
+                                        child: Row(
+                                              children: [
+                                                Icon(
+                                                  popMenuIcons[index],
+                                                  color: white,
+                                                ),
+                                                5.widthBox,
+                                                popMenuTitles[index]
+                                                    .toString()
+                                                    .text
+                                                    .color(white)
+                                                    .make(),
+                                              ],
+                                            ).box
+                                            .margin(
+                                              const EdgeInsets.only(bottom: 5),
+                                            )
+                                            .make()
+                                            .onTap(() {}),
+                                      ),
+                                      index < popMenuIcons.length - 1
+                                          ? Divider(
+                                            color: Colors.white,
+                                            height: 1,
+                                            thickness: 1,
+                                          )
+                                          : Container(),
+                                    ],
+                                  ),
+                                ),
+                              ).box
+                              .color(Colors.red.shade700)
+                              .width(200)
+                              .padding(const EdgeInsets.all(12))
+                              .make(),
+                  clickType: VxClickType.singleClick,
+                ),
               ),
             ),
           ),

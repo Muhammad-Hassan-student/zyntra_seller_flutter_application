@@ -7,7 +7,10 @@ const appname = "Zyntra Seller App",
     anyProblem = "In case of any difficulty, contact administration",
     credit = "@HassanDev",
     popluar = "Popular Products",
-    unpaid = "Unpaid";
+    unpaid = "Unpaid",
+    featured = "Featured", edit = "Edit", remove = "Remove",
+    message = "Messages",
+    storeSettings = "Store Settings", editProfile = "Edit Profile", save = "Save", logout = "Log out", chat = "Chat";
 
 const dashboard = "Dashboard",
     products = "Products",
